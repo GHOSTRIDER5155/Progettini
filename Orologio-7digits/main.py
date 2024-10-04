@@ -19,3 +19,5 @@ def aggiorna_ora():
     root.after(1000, aggiorna_ora)
 
 aggiorna_ora()
+
+root.mainloop()
